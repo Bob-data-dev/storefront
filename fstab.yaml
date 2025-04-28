@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://drive.google.com/drive/folders/1_ljJMqltxTGP09Ou36YDzLur1gjTO_5Q?dmr=1&ec=wgc-drive-hero-goto
+    url: https://drive.google.com/drive/folders/1_ljJMqltxTGP09Ou36YDzLur1gjTO_5Q?dmr=1&ec=wgc-drive-globalnav-goto
     type: markup
 
 folders:
